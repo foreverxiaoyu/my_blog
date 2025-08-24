@@ -52,16 +52,16 @@ Your identification has been saved in /home/xy/.ssh/id_ed25519
 Your public key has been saved in /home/xy/.ssh/id_ed25519.pub
 The key fingerprint is:XXX
 ```
-#### 输出log
+#### 配置github
 ``` bash
 $ cat ~/.ssh/id_ed25519.pub
 # 复制内容到github->setting->SSH and GPG keys->SSH keys->New SSH Key
-# 最后在仓库目录，设置
+# 最后在仓库目录，点击code->ssh 复制网址替换到下面代码中
 $ cd "/target_repository_file"
 $ git remote set-url origin git@github.com:foreverxiaoyu/my_blog.git
 ```
 
-开个新终端测试
+#### 开个新终端测试
 ``` bash
 $ git push origin main
 # 在弹出的窗口中输入之前的passphrase
