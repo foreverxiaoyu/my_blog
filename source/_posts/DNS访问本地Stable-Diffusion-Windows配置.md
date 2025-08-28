@@ -3,7 +3,7 @@ title: 外部访问本地Stable Diffusion
 description: 本文基于Windows实现。使用前提：已安装Stable Diffusion webui,且已有自己的域名（放在了cloudflared上）。利用cloudflared内网穿透，将本地的7860端口开放到指定网址（比如sd.你的域名）
 date: 2025-08-28 22:57:19
 cover: https://admin.esports.gg/wp-content/uploads/2025/02/Castorices-kit-leaks-make-her-OP-in-Honkai-Star-Rail-968x544.jpg
-tags: Stable Diffusion Cloudflared NAT_Traversal Windows
+keywards: Stable Diffusion Cloudflared NAT_Traversal Windows
 ---
 
 
