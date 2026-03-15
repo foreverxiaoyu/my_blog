@@ -6,3 +6,5 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+fig/LoRA/disable_lora/no_show/*
+fig/LoRA/enable_lora/no_show/*

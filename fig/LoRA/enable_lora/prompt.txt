@@ -1,0 +1,2 @@
+<lora:test_1:1>,1girl, castorice \(honkai: star rail\)
+EasyNegative
